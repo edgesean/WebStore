@@ -145,7 +145,6 @@ C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\bin\Debug\netcoreapp3.0\Shop.D
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.csprojAssemblyReference.cache
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\staticwebassets\Shop.UI.StaticWebAssets.Manifest.cache
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\staticwebassets\Shop.UI.StaticWebAssets.xml
-C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.RazorAssemblyInfo.cache
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.RazorAssemblyInfo.cs
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.AssemblyInfoInputs.cache
@@ -166,3 +165,4 @@ C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.U
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.csproj.CopyComplete
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.dll
 C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.pdb
+C:\Users\seand\source\repos\Shop\WebStore\Shop.UI\obj\Debug\netcoreapp3.0\Shop.UI.MvcApplicationPartsAssemblyInfo.cache
