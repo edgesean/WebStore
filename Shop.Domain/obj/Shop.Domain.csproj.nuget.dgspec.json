@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj": {}
+    "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\Shop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+    "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\Shop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\Shop.Domain.csproj",
         "projectName": "Shop.Domain",
-        "projectPath": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "projectPath": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\Shop.Domain.csproj",
         "packagesPath": "C:\\Users\\seand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seand\\AppData\\Roaming\\NuGet\\NuGet.Config",

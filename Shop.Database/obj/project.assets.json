@@ -2635,11 +2635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Database\\Shop.Database.csproj",
+      "projectUniqueName": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Database\\Shop.Database.csproj",
       "projectName": "Shop.Database",
-      "projectPath": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Database\\Shop.Database.csproj",
+      "projectPath": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Database\\Shop.Database.csproj",
       "packagesPath": "C:\\Users\\seand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Database\\obj\\",
+      "outputPath": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\seand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2655,8 +2655,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
-              "projectPath": "C:\\Users\\seand\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj"
+            "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\Shop.Domain.csproj": {
+              "projectPath": "C:\\Users\\seand\\source\\repos\\Shop\\WebStore\\Shop.Domain\\Shop.Domain.csproj"
             }
           }
         }
