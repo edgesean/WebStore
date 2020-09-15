@@ -1,0 +1,5 @@
+C:\Users\seand\source\repos\Shop\Shop.Database\bin\Debug\netcoreapp3.0\Shop.Database.deps.json
+C:\Users\seand\source\repos\Shop\Shop.Database\bin\Debug\netcoreapp3.0\Shop.Database.dll
+C:\Users\seand\source\repos\Shop\Shop.Database\obj\Debug\netcoreapp3.0\Shop.Database.AssemblyInfoInputs.cache
+C:\Users\seand\source\repos\Shop\Shop.Database\obj\Debug\netcoreapp3.0\Shop.Database.AssemblyInfo.cs
+C:\Users\seand\source\repos\Shop\Shop.Database\obj\Debug\netcoreapp3.0\Shop.Database.csprojAssemblyReference.cache
